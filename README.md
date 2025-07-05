@@ -1,4 +1,4 @@
-[聚类及相关指标.pdf](https://github.com/user-attachments/files/21071058/default.pdf)# Clustering-and-Metric-Calculation
+# Clustering-and-Metric-Calculation
 This program provides code for calculating and evaluating three clustering methods: DBSCAN, K-means, and hierarchical clustering.
 
 Warning: The code comments in this project are all written in Chinese.
