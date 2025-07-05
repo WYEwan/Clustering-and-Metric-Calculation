@@ -1,4 +1,4 @@
-# Clustering-and-Metric-Calculation
+# Clustering-and-Metric-Calculation聚类及指标计算
 This program provides code for calculating and evaluating three clustering methods: DBSCAN, K-means, and hierarchical clustering.
 本程序提供了DBSCAN、K-means、层次聚类三种聚类方法的计算及评价指标代码
 
